@@ -45,7 +45,6 @@ Many of these are included in the list above, and not everything from the list a
 * Getting paid what you're worth
 * Project Managemenet
 ---
----
 
 # Frontend Interview Prep
 
@@ -80,7 +79,7 @@ Resource compilation of Frontend Interview Preparation questions from the bread-
 ####**[Practice Your Code]**
 
 - Project Euler [https://projecteuler.net/]
-- Topcoder [https://projecteuler.net/]
+- Topcoder [https://www.topcoder.com/challenges/]
 - HackerRank [https://www.hackerrank.com/]
 - LeetCode [https://leetcode.com/]
 - Practice coding in a Google Doc [https://www.quora.com/What-are-some-tips-for-practicing-coding-on-google-docs-for-a-phone-screen]
@@ -104,10 +103,13 @@ Resource compilation of Frontend Interview Preparation questions from the bread-
 
 #### **[General Interview Prep]**
 
+- Gainlo [http://www.gainlo.co/]
+- Interview Cake _paid_ [https://interviewcake.com/]
+- Pramp [https://www.pramp.com/]
 - Sys Design [https://github.com/checkcheckzz/system-design-interview]
 - High Scalability [http://highscalability.squarespace.com/]
-- GeeksforGeeks [http://www.geeksforgeeks.org/]
-- Interview Puzzles [http://www.geeksforgeeks.org/category/puzzles/]
+- GeeksforGeeks [http://geeksforgeeks.org/]
+- Interview Puzzles [http://geeksforgeeks.org/category/puzzles/]
 - Practice Problems - Google Focused [http://practice.geeksforgeeks.org/company/Google]
 
 #### **["Life at Google" Video Series]**
