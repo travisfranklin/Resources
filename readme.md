@@ -58,7 +58,7 @@ Resource compilation of Frontend Interview Preparation questions from the bread-
 
 ## Tips from other Engineers
 
-####**[TechLead Youtube Channel]**
+#### **[TechLead Youtube Channel]**
 
 1. **[Video]** how google software engineers work (coding & programming workflow) - [Watch Video](https://www.youtube.com/watch?v=LnXk9XZjXbg)
 2. **[Video - Expectations]:** mock google interview (for software engineer job) - coding & algorithms tips - [Watch Video](https://www.youtube.com/watch?v=IWvbPIYQPFM)
@@ -66,7 +66,7 @@ Resource compilation of Frontend Interview Preparation questions from the bread-
 4. **[Video]:** behavioral interview - how to pass the behavior interview (for software engineers) - [Watch Video](https://www.youtube.com/watch?v=EVavVNhG5l8)
 5. **[Video]:** cracking the coding interview (in 5 simple steps, for software engineers) - [Watch Video](https://www.youtube.com/watch?v=JeT2tXqp4m0)
 
-####**[JomaTech Youtube Channel]**
+#### **[JomaTech Youtube Channel]**
 
 1. **[Video - Story]:** guy with 2.9 gpa now makes \$300k as a swe (software engineer) - [Watch Video](https://www.youtube.com/watch?v=YGflHj1SjA4)
 2. **[Video]:** interviewing at google, uber, snap and negotiating to a \$300k job offer - [Watch Video](https://www.youtube.com/watch?v=0CxSvqyEjNE)
@@ -76,7 +76,7 @@ Resource compilation of Frontend Interview Preparation questions from the bread-
 
 ## Interview Preparation:
 
-####**[Practice Your Code]**
+#### **[Practice Your Code]**
 
 - Project Euler [https://projecteuler.net/]
 - Topcoder [https://www.topcoder.com/challenges/]
@@ -84,11 +84,11 @@ Resource compilation of Frontend Interview Preparation questions from the bread-
 - LeetCode [https://leetcode.com/]
 - Practice coding in a Google Doc [https://www.quora.com/What-are-some-tips-for-practicing-coding-on-google-docs-for-a-phone-screen]
 
-####**[Blog]**
+#### **[Blog]**
 
 - [five-essential-phone-screen-questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
-####**[Github Repository]**
+#### **[Github Repository]**
 
 - [The Coding Interview](https://github.com/mre/the-coding-interview)
 - [HTML5 Boilerplate Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
