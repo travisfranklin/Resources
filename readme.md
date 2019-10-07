@@ -1,4 +1,6 @@
-# Advanced Topics
+# Good Resources for Dev Prep
+
+This repo is a compilation of resources and terminology for research. It's a lot, but each new thing learned will help you integrate more easily into your next position.
 
 ### Past lectures from Nashville Software School
 
@@ -125,4 +127,6 @@ https://www.quora.com/How-should-I-prepare-for-my-Google-interview-if-I-have-1-m
 
 - Udacity [https://www.udacity.com/course/intro-to-algorithms--cs215]
 - Google Interview Prep
+— Giwoo Lee [https://github.com/giwoolee]
+— Eliza Brock [https://github.com/elizabrock]
 
